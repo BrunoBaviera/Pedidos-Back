@@ -53,7 +53,7 @@ namespace Pedidos.Global.Api.SwaggerConfig
             {
                 Title = "API - Pedidos",
                 Version = description.ApiVersion.ToString(),
-                Description = "Esta API é um REST com ASP.NET Core WebAPI.",
+                Description = "Esta API é um REST com ASP.NET Core WebAPI simulando um E-Commerce desenvolvida como um desafio proposto pelo Grupo Stefanini para uma vaga de Desenvolvedor.",
                 Contact = new OpenApiContact() { Name = "Bruno Baviera", Email = "bruno10_1997@hotmail.com" },
                 License = new OpenApiLicense() { Name = "MIT", Url = new Uri("https://opensource.org/licenses/MIT") }
             };
