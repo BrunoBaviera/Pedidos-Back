@@ -9,4 +9,4 @@ Api desenvolvida para simular um E-commerce.
 
 ## Como funciona
 
-A aplicação foi desenvolvida com padrão MVC, controle de versão pelo Swagger e padronização nos erros e respostas de cada requisição.
+A aplicação foi desenvolvida com padrão MVC, controle de versão pelo Swagger e padronização nas validações e retornos de cada requisição.
